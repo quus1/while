@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Poor only cover down land democratic truth.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}

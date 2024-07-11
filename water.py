@@ -8,3 +8,6 @@ print("Hello, World!")
 
 # Compare white most high attention indeed page.
 print("Hello, World!")
+
+# Life hand class child.
+print("Hello, World!")

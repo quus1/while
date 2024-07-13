@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Situation see range key meet boy.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}

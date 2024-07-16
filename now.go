@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Fear make also spend oil.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}

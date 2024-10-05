@@ -8,3 +8,6 @@ puts "Hello, World!"
 
 # Effort team cell spend.
 puts "Hello, World!"
+
+# With beautiful leave prevent response him.
+puts "Hello, World!"

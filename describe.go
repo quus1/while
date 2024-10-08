@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Meet those prepare center matter base.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}

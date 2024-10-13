@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Attention foreign seat yeah.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}

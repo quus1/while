@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Media camera pass his war card standard.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}

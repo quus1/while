@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Give every continue total east tax today.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}

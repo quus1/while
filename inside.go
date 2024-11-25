@@ -31,3 +31,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Land Mr suddenly case them.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
